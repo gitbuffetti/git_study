@@ -1,0 +1,1 @@
+File che elabora le operazioni e mostra il risultato

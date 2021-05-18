@@ -1,0 +1,1 @@
+funzione che riceve in input le operazioni da eseguire
