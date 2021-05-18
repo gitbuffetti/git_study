@@ -1,1 +1,2 @@
-funzione creata da altro sviluppatore
+funzione creata da altro sviluppatore.
+Modificata da me
